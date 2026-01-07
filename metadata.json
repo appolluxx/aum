@@ -1,0 +1,5 @@
+{
+  "name": "Circulatory System Sim",
+  "description": "Interactive simulation of the human heart, pulmonary and systemic circuits with real-time hemodynamic controls.",
+  "requestFramePermissions": []
+}
